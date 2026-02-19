@@ -68,8 +68,8 @@ function App() {
 
       <div className="absolute bottom-8 flex justify-center">
         <img
-          src="https://aadcdn.msauth.net/shared/1.0/content/images/microsoft_logo_564db913a7fa0ca42727161c6d031bef.svg"
-          alt="Microsoft"
+          src=""
+          alt=""
           className="h-6"
         />
       </div>
